@@ -53,7 +53,7 @@
         "@types/react-helmet": "^6.1.0",
         "@types/react-router-dom": "^5.1.7",
         "docusaurus-tailwindcss-loader": "file:plugins/docusaurus-tailwindcss-loader",
-        "postcss": "^8.3.6",
+        "postcss": "^8.4.31",
         "postcss-import": "^14.0.2",
         "postcss-loader": "^6.1.1",
         "postcss-preset-env": "^3.0.0",
